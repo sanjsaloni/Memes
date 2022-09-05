@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Memerzz" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_700</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">#283593</item>
+        <item name="android:textColor">#131313</item>
+        <item name="android:textSize">12dp</item>
+
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Memerzz"></style>
+</resources>
